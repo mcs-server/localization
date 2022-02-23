@@ -38,6 +38,5 @@ HUB-SIDEBAR:
   - ' §fОнлайн проекта: §e%global_online%'
   - ''
   - '§ewww.milansky.ovh'
-  
-  # Core Modules
-  PROFILE_MENU_TITLE: ''
+# Core Modules
+PROFILE_MENU_TITLE: ''
