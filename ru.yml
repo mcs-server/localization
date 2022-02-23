@@ -39,4 +39,12 @@ HUB-SIDEBAR:
   - ''
   - '§ewww.milansky.ovh'
 # Core Modules
-PROFILE_MENU_TITLE: ''
+PROFILE_MENU_TITLE: 'Профиль'
+
+PROFILE_INFO_LORE:
+  - '§7Никнейм: §a%name%'
+  - '§7Группа: %group%'
+  - '§7Уровень: §a%level%'
+  - '§7Опыт: §a%min_exp%§7/§a%max_exp%'
+  - '§7Уровень достижений: §a%achievments_level%'
+  - '§7Состоите в группе: %in_group%'
