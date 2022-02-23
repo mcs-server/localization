@@ -5,18 +5,18 @@ WRONG_ARGUMENTS: '§4Неизвестные аргументы команды!'
 
 # Tab
 TABLIST_HEADER:
-  - '\n'
-  - '§6§lMilansky Custom Server\n'
-  - '\n'
-  - '§fОбщий онлайн: §a%online%\n'
-  - '\n'
+  - ''
+  - '§6§lMilansky Custom Server'
+  - ''
+  - '§fОбщий онлайн: §a<online>'
+  - ''
   - '§fИгроки текущего сервера:'
 
 TABLIST_FOOTER:
-  - '\n'
-  - '§f      Текущий сервер: §a%server%\n'
-  - '\n'
-  - '§e%website%\n'
+  - ''
+  - '§f      Текущий сервер: §a<server>'
+  - ''
+  - '§e<website>'
 
 # Hub System
 BETA-TESTING: 'Внимание! Сервер находится в βeta-тестировании. На сервере может присутствовать большое количество багов и недоработок. Если вы нашли одну из них, обратитесь в тех.поддержку - %clickable_support% '
