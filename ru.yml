@@ -59,3 +59,9 @@ PROFILE_LEVELS_LORE:
   - 'награды, бустеры, золото и многое другое'
   - ''
   - '§aНажмите, чтобы открыть меню'
+  
+# SkyWars
+WAITING_STATUS_NAME: '§aОжидание игроков'
+INGAME_STATUS_NAME: '§cВ процессе'
+ENDING_STATUS_NAME: '§dПерезагрузка арены'
+
