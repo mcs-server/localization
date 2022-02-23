@@ -41,6 +41,7 @@ HUB-SIDEBAR:
 # Core Modules
 PROFILE_MENU_TITLE: 'Профиль'
 
+PROFILE_INFO_NAME: '§aИнформация о профиле'
 PROFILE_INFO_LORE:
   - '§7Никнейм: §a%name%'
   - '§7Группа: %group%'
