@@ -14,7 +14,7 @@ TABLIST_HEADER:
 
 TABLIST_FOOTER:
   - ''
-  - '§f      Текущий сервер: §a<server>'
+  - '§fТекущий сервер: §a<server>'
   - ''
   - '§e<website>'
 
