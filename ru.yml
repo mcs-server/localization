@@ -20,8 +20,11 @@ TABLIST_FOOTER:
 
 # Hub System
 BETA-TESTING: 'Внимание! Сервер находится в βeta-тестировании. На сервере может присутствовать большое количество багов и недоработок. Если вы нашли одну из них, обратитесь в тех.поддержку - %clickable_support% '
+
 SPAWN-SET: '§aВы успешно установили точку спавна!'
+
 PROFILE_ITEM_NAME: 'Профиль %player_name%'
+
 HUB-SIDEBAR:
   - ''
   - '§7Профиль: '
@@ -35,3 +38,6 @@ HUB-SIDEBAR:
   - ' §fОнлайн проекта: §e%global_online%'
   - ''
   - '§ewww.milansky.ovh'
+  
+  # Core Modules
+  PROFILE_MENU_TITLE: ''
