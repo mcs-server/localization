@@ -6,7 +6,7 @@ WRONG_ARGUMENTS: '§4Неизвестные аргументы команды!'
 # Tab
 TABLIST_HEADER:
   - ''
-  - '%animation%'
+  - '§6§lMilansky Custom Server'
   - ''
   - '§fОбщий онлайн: §a%online%'
   - ''
