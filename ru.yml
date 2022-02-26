@@ -15,6 +15,7 @@ DISGUISE_ACTIONBAR_FLOOD: '§cВы под маскировкой!'
 VANISH_SUCCESS: '§aВы успешно вошли в режим невидимости!'
 VANISH_OFF_SUCCESS: '§aВы успешно вышли с режима невидимости!'
 
+ACTIONBAR_INFO: 'Вы сейчас'
 VANISH_ACTIONBAR: 'СКРЫТЫ'
 DISGUISE_ACTIONBAR: 'ЗАМАСКИРОВАНЫ'
 
