@@ -83,17 +83,13 @@ PROFILE_LEVELS_LORE:
   - '§aНажмите, чтобы открыть меню'
   
   
-HUB_SELECTOR_ALREADY_CONNECTED_LORE: 
+HUB_SELECTOR_LORE:
   - ''
   - '§7Онлайн в лобби: §f%online%'
   - ''
-  - '§cВы уже находитесь в данном лобби!'  
-
-HUB_SELECTOR_OTHER_LORE: 
-  - ''
-  - '§7Онлайн в лобби: §f%online%'
-  - ''
-  - '§eНажмите для подключения!'
+  
+HUB_SELECTOR_ALREADY_CONNECTED_LORE: '§cВы уже находитесь в данном лобби!'  
+HUB_SELECTOR_OTHER_LORE: '§eНажмите для подключения!'
 
 # SkyWars
 WAITING_STATUS_NAME: '§aОжидание игроков'
