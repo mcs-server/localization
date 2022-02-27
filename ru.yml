@@ -10,7 +10,7 @@ DISGUISE_GROUP_BETTER_ERROR: '§4Уровень указанной группы 
 DISGUISE_GROUP_NOT_EXISTS: '§4Такой группы не существует'
 DISGUISE_RESET_SUCCESS: '§aВы успешно восстановаили свой никнейм!'
 DISGUISE_ALREADY: '§4Вы уже находитесь под маскировкой! Чтобы её отменить, используйте: §c/disguise reset'
-DISGUISE_ACTIONBAR_FLOOD: '§cВы под маскировкой!'
+DISGUISE_INVENTORY_TITLE: 'Маскировка'
 
 VANISH_SUCCESS: '§aВы успешно вошли в режим невидимости!'
 VANISH_OFF_SUCCESS: '§aВы успешно вышли с режима невидимости!'
