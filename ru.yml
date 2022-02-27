@@ -89,6 +89,12 @@ HUB_SELECTOR_ALREADY_CONNECTED_LORE:
   - ''
   - '§cВы уже находитесь в данном лобби!'  
 
+HUB_SELECTOR_OTHER_LORE: 
+  - ''
+  - '§7Онлайн в лобби: §f%online%'
+  - ''
+  - '§eНажмите для подключения!'
+
 # SkyWars
 WAITING_STATUS_NAME: '§aОжидание игроков'
 INGAME_STATUS_NAME: '§cВ процессе'
