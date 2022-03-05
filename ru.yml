@@ -15,6 +15,8 @@ DISGUISE_INVENTORY_TITLE: 'Маскировка'
 VANISH_SUCCESS: '§aВы успешно вошли в режим невидимости!'
 VANISH_OFF_SUCCESS: '§aВы успешно вышли с режима невидимости!'
 
+PROPERTIES_UNKNOWN_VALUE: '§4Данного параметра не существует!'
+
 ACTIONBAR_INFO: 'Вы сейчас'
 VANISH_ACTIONBAR: 'СКРЫТЫ'
 DISGUISE_ACTIONBAR: 'ЗАМАСКИРОВАНЫ'
