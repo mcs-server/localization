@@ -122,7 +122,7 @@ SKYWARS_GAME_BOARD:
   - ''
   - '§fИгроков осталось: §a%players_left%'
   - ''
-  - '§fУбийств: %kills%'
+  - '§fУбийств: §e%kills%'
   - ''
   - '§fКарта: §a%map%'
   - '§fРежим: §a%mode%'
