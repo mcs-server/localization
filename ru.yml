@@ -108,7 +108,7 @@ NOT_SELECTED: '§eНажмите для выбора'
 ITEM_ALREADY_SELECTED_ERROR: '§4Вы уже выбрали данный предмет!'
 ITEM_NOT_BOUGHT_ERROR: '§4У Вас нет данного предмета!'
 ITEM_SUCCESSFULY_SELECTED: '§aВы успешно выбрали данный предмет!'
-
+ITEM_SUCCESSFULY_BOUGHT: '§aВы успешно купили предмет %item% §aза §f%cost%§a!'
 
 SKYWARS_WAITING_BOARD:
   - ''
@@ -140,6 +140,7 @@ SKYWARS_GAME_BOARD:
   - '§ewww.milansky.ovh'
   
 LORE_RARITY: '§7Ценность: %rarity%'
+PLAYER_JOIN_GAME_MESSAGE: '%player% §fзашёл в игру §a(%players%/%max_players%)'
 
 # Cages
 DEFAULT_CAGE_LORE: 
