@@ -100,6 +100,10 @@ WAITING_STATUS_NAME: '§aОжидание игроков'
 INGAME_STATUS_NAME: '§cВ процессе'
 ENDING_STATUS_NAME: '§dПерезагрузка арены'
 GAME_STARTING: '§fИгра начнётся через: §a%timer%'
+SELECTED: '§aВыбрано'
+NOT_BOUGHT: '§eНажмите для покупки'
+NOT_SELECTED: '§eНажмите для выбора'
+
 
 SKYWARS_WAITING_BOARD:
   - ''
