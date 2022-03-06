@@ -100,4 +100,20 @@ WAITING_STATUS_NAME: '§aОжидание игроков'
 INGAME_STATUS_NAME: '§cВ процессе'
 ENDING_STATUS_NAME: '§dПерезагрузка арены'
 
-STAFF_CHAT_PLAYER_HOVER: '§7Никнейм: %name%\n§7Группа: %group%\n§7Уровень: §a%level%\n§7Опыт: §e%experience%\n§7Уровень достижений: §a%achievments%'
+SKYWARS_WAITING_BOARD:
+  - ''
+  - '§fНеобходимо игроков: §a%needed_players%'
+  - ''
+  - '§fКарта: §a%map%'
+  - '§fРежим: §a%mode%'
+  - ''
+  - '§ewww.milansky.ovh'
+
+SKYWARS_STARTING_BOARD: 
+  - ''
+  - '§fИгра начнётся через: §a%timer%'
+  - ''
+  - '§fКарта: §a%map%'
+  - '§fРежим: §a%mode%'
+  - ''
+  - '§ewww.milansky.ovh'
