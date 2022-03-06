@@ -117,3 +117,14 @@ SKYWARS_STARTING_BOARD:
   - '§fРежим: §a%mode%'
   - ''
   - '§ewww.milansky.ovh'
+
+SKYWARS_GAME_BOARD: 
+  - ''
+  - '§fИгроков осталось: §a%players_left%'
+  - ''
+  - '§fУбийств: %kills%'
+  - ''
+  - '§fКарта: §a%map%'
+  - '§fРежим: §a%mode%'
+  - ''
+  - '§ewww.milansky.ovh'
