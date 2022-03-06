@@ -99,6 +99,7 @@ HUB_SELECTOR_OTHER_LORE: '§eНажмите для подключения!'
 WAITING_STATUS_NAME: '§aОжидание игроков'
 INGAME_STATUS_NAME: '§cВ процессе'
 ENDING_STATUS_NAME: '§dПерезагрузка арены'
+GAME_STARTING: '§fИгра начнётся через: §a%timer%'
 
 SKYWARS_WAITING_BOARD:
   - ''
