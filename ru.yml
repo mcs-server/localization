@@ -133,3 +133,13 @@ SKYWARS_GAME_BOARD:
   - '§fРежим: §a%mode%'
   - ''
   - '§ewww.milansky.ovh'
+
+# Cages
+DEFAULT_CAGE_LORE: 
+  - 'Самая обычная клетка, которая'
+  - 'выдаётся при входе в игру'
+
+
+
+
+
