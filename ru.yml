@@ -105,6 +105,10 @@ SELECTED: '§aВыбрано'
 NOT_BOUGHT: '§eНажмите для покупки'
 NOT_SELECTED: '§eНажмите для выбора'
 
+ITEM_ALREADY_SELECTED_ERROR: '§4Вы уже выбрали данный предмет!'
+ITEM_NOT_BOUGHT_ERROR: '§4У Вас нет данного предмета!'
+ITEM_SUCCESSFULY_SELECTED: '§aВы успешно выбрали данный предмет!'
+
 
 SKYWARS_WAITING_BOARD:
   - ''
