@@ -142,6 +142,12 @@ SKYWARS_GAME_BOARD:
 LORE_RARITY: '§7Ценность: %rarity%'
 PLAYER_JOIN_GAME_MESSAGE: '%player% §fзашёл в игру §a(%players%/%max_players%)'
 
+# Kill Messages
+VOID_KILL_WITHOUT_KILLER: '%player% §fупал в бездну'
+VOID_KILL_WITH_KILLER: '%player% §fбыл скинут в бездну игроком %killer%'
+KILLED_WITH_KILLER: '%player% §fбыл убит игроком %killer%'
+SHOOT_WITH_KILLER: '%player% §fбыл застрелен игроком %killer%'
+
 # Cages
 DEFAULT_CAGE_LORE: 
   - '§fСамая обычная клетка, которая'
