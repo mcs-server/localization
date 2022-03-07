@@ -170,6 +170,7 @@ LORE_RARITY: '§7Ценность: %rarity%'
 PLAYER_JOIN_GAME_MESSAGE: '%player% §fзашёл в игру §a(%players%/%max_players%)'
 PVP_ACTIVATED_MESSAGE: '§aДраки активированы! Вы можете начинать PVP!'
 MINIMUM_PLAYERS: '§4Для начала игры в ней должно быть не менее двух игроков!'
+RANKED_REWARD_LORE: '§cНаграда за ранкед!'
 
 # Kill Messages
 VOID_KILL_WITHOUT_KILLER: '%player% §fупал в бездну'
