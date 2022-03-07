@@ -253,7 +253,8 @@ DEFAULT_CAGE_LORE:
 KIT_SCOUT_LORE:
   - 'test'
 
-
+KIT_DEFAULT_LORE:
+  - 'test'
 
 
 
