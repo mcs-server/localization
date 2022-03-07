@@ -250,7 +250,7 @@ DEFAULT_CAGE_LORE:
   - '§7выдаётся при входе в игру'
 
 # Kits
-KIT_SCOUT_GUI_LORE:
+KIT_SCOUT_LORE:
   - 'test'
 
 
