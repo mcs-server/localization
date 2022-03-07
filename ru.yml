@@ -177,6 +177,70 @@ VOID_KILL_WITH_KILLER: '%player% §fбыл скинут в бездну игро
 KILLED_WITH_KILLER: '%player% §fбыл убит игроком %killer%'
 SHOOT_WITH_KILLER: '%player% §fбыл застрелен игроком %killer%'
 
+# Victory Dances
+VICTORYDANCE_DEFAULT_LORE: 
+  - 'Самый обычный победный танец,'
+  - 'который выдаётся при входе в игру'
+
+VICTORYDANCE_ANVILS_LORE:
+  - 'Устройте головную боль, при'
+  - 'выигрыше начнётся дождь из наковален'
+
+VICTORYDANCE_ICEWALKER_LORE: 
+  - 'После победы Вы будете настолько'
+  - 'холодны, что всё под Вами превратиться в лёд'
+
+VICTORYDANCE_YEEHAW_LORE:
+  - 'Поскачите на лошади, будто Вы'
+  - 'находитесь в 1800-х'
+
+VICTORYDANCE_SPIDERS_LORE:
+  - 'Станьте королём пауков, внушите'
+  - 'страх во всех проигравших'
+
+VICTORYDANCE_VULCANOFIRE_LORE:
+  - 'Вы будете настолько горячи при'
+  - 'выигрыше, что устройте вулкан из огня'
+
+VICTORYDANCE_DAYORNIGHT_LORE:
+  - 'День и ночь будут меняться'
+  - 'меньше, чем раз в секунду!'
+
+VICTORYDANCE_BEES_LORE:
+  - 'Станьте маткой всех пчёл'
+  - 'и притяните их к себе'
+
+VICTORYDANCE_FLOATINGLANTERNS_LORE:
+  - 'Если в игре слишком темно, '
+  - 'притяните к себе все фонари!'
+
+VICTORYDANCE_VULCANOWOOL_LORE:
+  - 'При выигрыше, вы устроите'
+  - 'вулкан из шерсти'
+
+VICTORYDANCE_WOLVES_LORE:
+  - 'Станьте волчицей или волком'
+  - 'притяните к себе всех волчонков!'
+
+VICTORYDANCE_DAREDEVIL_LORE:
+  - 'Покажите всем, кто здесь'
+  - 'босс, покатаясь на ядерном коне'
+
+VICTORYDANCE_WITHER_LORE:
+  - 'Покатайтесь на визере прямо'
+  - 'из того мира, разрушая всё на своем пути'
+
+VICTORYDANCE_RAINBOWSHEEP_LORE:
+  - 'Покажите всем силу разноцветия!'
+
+VICTORYDANCE_GHAST_LORE:
+  - 'Покатайтесь на гасте из'
+  - 'ада, огромном как член разраба'
+
+VICTORYDANCE_DRAGON_LORE:
+  - 'Покатайтесь на драконе,'
+  - 'разрушая всё и вся'
+
 # Cages
 DEFAULT_CAGE_LORE: 
   - '§fСамая обычная клетка, которая'
