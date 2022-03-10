@@ -167,7 +167,22 @@ SKYWARS_GAME_BOARD:
   - '§fРежим: §a%mode%'
   - ''
   - '§ewww.milansky.ovh'
-  
+
+SKYWARS_LOBBY_BOARD: 
+  - ''
+  - '§fТекущий рейтинг: §e%rating%'
+  - '§fТекущая позиция в топе: §e%position%'
+  - ''
+  - '§fОдиночных убийств: §e%solo_kills%'
+  - '§fОдиночных побед: §e%solo_wins%'
+  - '§fКомандных убийств: §e%teams_kills%'
+  - '§fКомандных побед: §e%teams_wins%'
+  - ''
+  - '§fМонеты: §a%silver%'
+  - '§fСервер: §a%server%'
+  - ''
+  - '§ewww.milansky.ovh'
+
 LORE_RARITY: '§7Ценность: %rarity%'
 PLAYER_JOIN_GAME_MESSAGE: '%player% §fзашёл в игру §a(%players%/%max_players%)'
 PVP_ACTIVATED_MESSAGE: '§aДраки активированы! Вы можете начинать PVP!'
